@@ -1,16 +1,69 @@
-## YOKOSO
+# Kunal Goswami
 
-<!--
-**kunal-gswm/kunal-gswm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer building backend-heavy applications in Python and TypeScript: applied cryptography, security tooling, and offline-first desktop software.
 
-Here are some ideas to get you started:
+B.Tech in AI & Data Science, Galgotias University (2025–2029). Open to internships.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Cryptographic voting protocols: blind signatures, Merkle trees, forward-secret encryption, key rotation on AWS
+- Desktop and offline-first applications on Electron
+- Python services with FastAPI and WebSocket streaming
+
+## Selected work
+
+### Blockchain E-Voting
+
+Election system with an Express backend, a React frontend and a Solidity contract. Backend modules cover blind signatures, Merkle trees, HMAC signing and forward-secret vote encryption. Includes Lambda-based key rotation defined in CloudFormation.
+
+`TypeScript` `Express` `React` `Solidity` `Hardhat` `Supabase` `AWS`
+
+[kunal-gswm/blockchain-evoting](https://github.com/kunal-gswm/blockchain-evoting)
+
+### GameLingo
+
+Windows desktop app that extracts Japanese text from RPG and visual-novel games, translates it, and patches it back into the game files. Per-engine extractors and patchers for RPG Maker MV/MZ, XP and VX Ace, Wolf RPG, KiriKiri and Ren'Py. Translation falls back from local Ollama to DeepL to Google Translate. Engine formatting codes are protected with placeholder substitution. Covered by a pytest suite.
+
+`Python` `FastAPI` `SQLite` `React` `TypeScript` `Electron`
+
+[kunal-gswm/GameLingo](https://github.com/kunal-gswm/GameLingo)
+
+### LocalInvoice
+
+Offline GST billing app for small Indian shops. Splits CGST and SGST from final prices, ships a 260+ item catalogue with HSN codes, generates UPI QR codes on invoices, and supports JSON backup and restore. Windows installer is built and published by GitHub Actions on version tags. Capacitor wrapper for mobile.
+
+`JavaScript` `Electron` `IndexedDB` `Capacitor` `GitHub Actions`
+
+[kunal-gswm/LocalInvoice](https://github.com/kunal-gswm/LocalInvoice)
+
+### Hostile-Data
+
+React and TypeScript dashboard that normalizes inconsistent API JSON (mixed key conventions, numbers embedded in strings, nested optionals) into a typed model before it reaches the UI. Normalization is a pure function with a Vitest suite.
+
+`TypeScript` `React` `Vite` `Tailwind CSS` `Vitest`
+
+[kunal-gswm/Hostile-Data](https://github.com/kunal-gswm/Hostile-Data)
+
+### Aegis
+
+Prototype dashboard for LLM red-teaming. Template-based attack payloads, rule-based evaluators, and results streamed to a live terminal over WebSockets. The evaluators are heuristics and do not call an LLM.
+
+`Python` `FastAPI` `SQLAlchemy` `Next.js` `Docker Compose`
+
+[kunal-gswm/aegis](https://github.com/kunal-gswm/aegis)
+
+## Stack
+
+**Languages:** Python · TypeScript · JavaScript · SQL · Solidity
+
+**Backend:** FastAPI · Express · SQLAlchemy · pytest · Vitest
+
+**Frontend and desktop:** React · Next.js · Vite · Tailwind CSS · Electron · Capacitor
+
+**Data and infrastructure:** PostgreSQL (Supabase) · SQLite · IndexedDB · Docker · AWS (Lambda, KMS, Secrets Manager) · GitHub Actions
+
+**Blockchain:** Hardhat · ethers.js
+
+## Contact
+
+[kunalgswm.me](https://kunalgswm.me) · [LinkedIn](https://www.linkedin.com/in/kunalgoswami12/)
