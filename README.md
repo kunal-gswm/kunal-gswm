@@ -2,7 +2,7 @@
 
 Developer building backend-heavy applications in Python and TypeScript: applied cryptography, security tooling, and offline-first desktop software.
 
-B.Tech in AI & Data Science, Galgotias University (2025–2029). Open to internships.
+B.Tech in AI & Data Science, Galgotias University (2025–2029). Open to work in any project.
 
 ## Current focus
 
