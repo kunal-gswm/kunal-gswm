@@ -50,7 +50,7 @@ Neku lives unobtrusively on your desktop, reacting to your focus sprints, keyboa
 
 `C# ` `.NET 10` `Windows Presentation Foundation (WPF)` `Powershell` `Batchfile`
 
-[kunal-gswm/aegis](https://github.com/kunal-gswm/Neku)
+[kunal-gswm/Neku](https://github.com/kunal-gswm/Neku)
 
 ## Stack
 
