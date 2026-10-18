@@ -44,13 +44,13 @@ React and TypeScript dashboard that normalizes inconsistent API JSON (mixed key 
 
 [kunal-gswm/Hostile-Data](https://github.com/kunal-gswm/Hostile-Data)
 
-### Aegis
+### Neku
 
-Prototype dashboard for LLM red-teaming. Template-based attack payloads, rule-based evaluators, and results streamed to a live terminal over WebSockets. The evaluators are heuristics and do not call an LLM.
+Neku lives unobtrusively on your desktop, reacting to your focus sprints, keyboard typing, and build events.Built natively in C# and WPF on .NET 10 with genuine physics, deep customizability, and zero system bloat
 
-`Python` `FastAPI` `SQLAlchemy` `Next.js` `Docker Compose`
+`C# ` `.NET 10` `Windows Presentation Foundation (WPF)` `Powershell` `Batchfile`
 
-[kunal-gswm/aegis](https://github.com/kunal-gswm/aegis)
+[kunal-gswm/aegis](https://github.com/kunal-gswm/Neku)
 
 ## Stack
 
