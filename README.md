@@ -36,13 +36,13 @@ Offline GST billing app for small Indian shops. Splits CGST and SGST from final 
 
 [kunal-gswm/LocalInvoice](https://github.com/kunal-gswm/LocalInvoice)
 
-### Hostile-Data
+### Caulk
 
-React and TypeScript dashboard that normalizes inconsistent API JSON (mixed key conventions, numbers embedded in strings, nested optionals) into a typed model before it reaches the UI. Normalization is a pure function with a Vitest suite.
+Caulk helps developers identify common security vulnerabilities and dangerous configurations in their codebases before shipping their applications to production.
 
-`TypeScript` `React` `Vite` `Tailwind CSS` `Vitest`
+`Python`
 
-[kunal-gswm/Hostile-Data](https://github.com/kunal-gswm/Hostile-Data)
+[kunal-gswm/caulk](https://github.com/kunal-gswm/caulk)
 
 ### Neku
 
